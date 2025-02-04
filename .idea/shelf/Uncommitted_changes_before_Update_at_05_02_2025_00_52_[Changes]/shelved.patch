@@ -1,0 +1,124 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+new file mode 100644
+--- /dev/null	(date 1738691232516)
++++ b/.idea/workspace.xml	(date 1738691232516)
+@@ -0,0 +1,95 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="AutoImportSettings">
++    <option name="autoReloadType" value="SELECTIVE" />
++  </component>
++  <component name="ChangeListManager">
++    <list default="true" id="990b6b1e-2e94-425a-910a-1a759806af27" name="Changes" comment="add new streamlit project">
++      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++    </list>
++    <option name="SHOW_DIALOG" value="false" />
++    <option name="HIGHLIGHT_CONFLICTS" value="true" />
++    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
++    <option name="LAST_RESOLUTION" value="IGNORE" />
++  </component>
++  <component name="Git.Settings">
++    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
++  </component>
++  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
++  "history": [
++    {
++      "assignee": "Fikriazrbni"
++    }
++  ],
++  "lastFilter": {
++    "assignee": "Fikriazrbni"
++  }
++}]]></component>
++  <component name="GithubPullRequestsUISettings"><![CDATA[{
++  "selectedUrlAndAccountId": {
++    "url": "https://github.com/Fikriazrbni/Streamlit.git",
++    "accountId": "ecde1a9a-b08c-4379-9b07-b3f08c0383ad"
++  }
++}]]></component>
++  <component name="ProjectColorInfo"><![CDATA[{
++  "customColor": "",
++  "associatedIndex": 2
++}]]></component>
++  <component name="ProjectId" id="2sZwPTXjaY3yDd7dZspuO4FbgND" />
++  <component name="ProjectViewState">
++    <option name="hideEmptyMiddlePackages" value="true" />
++    <option name="showLibraryContents" value="true" />
++  </component>
++  <component name="PropertiesComponent"><![CDATA[{
++  "keyToString": {
++    "RunOnceActivity.ShowReadmeOnStart": "true",
++    "RunOnceActivity.git.unshallow": "true",
++    "git-widget-placeholder": "master",
++    "ignore.virus.scanning.warn.message": "true",
++    "settings.editor.selected.configurable": "preferences.pluginManager"
++  }
++}]]></component>
++  <component name="SharedIndexes">
++    <attachedChunks>
++      <set>
++        <option value="bundled-python-sdk-a5bc9544c897-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.23654.177" />
++      </set>
++    </attachedChunks>
++  </component>
++  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
++  <component name="TaskManager">
++    <task active="true" id="Default" summary="Default task">
++      <changelist id="990b6b1e-2e94-425a-910a-1a759806af27" name="Changes" comment="" />
++      <created>1738676381154</created>
++      <option name="number" value="Default" />
++      <option name="presentableId" value="Default" />
++      <updated>1738676381154</updated>
++    </task>
++    <task id="LOCAL-00001" summary="add new streamlit project">
++      <option name="closed" value="true" />
++      <created>1738691010196</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1738691010196</updated>
++    </task>
++    <option name="localTasksCounter" value="2" />
++    <servers />
++  </component>
++  <component name="Vcs.Log.Tabs.Properties">
++    <option name="TAB_STATES">
++      <map>
++        <entry key="MAIN">
++          <value>
++            <State />
++          </value>
++        </entry>
++      </map>
++    </option>
++  </component>
++  <component name="VcsManagerConfiguration">
++    <MESSAGE value="add new streamlit project" />
++    <option name="LAST_COMMIT_MESSAGE" value="add new streamlit project" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+new file mode 100644
+--- /dev/null	(date 1738676822239)
++++ b/.idea/misc.xml	(date 1738676822239)
+@@ -0,0 +1,7 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="Black">
++    <option name="sdkName" value="Python 3.13 virtualenv at E:\Data Diri\Belajar\Python\Streamlit\.venv (2)" />
++  </component>
++  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.13 virtualenv at E:\Data Diri\Belajar\Python\Streamlit\.venv (2)" project-jdk-type="Python SDK" />
++</project>
+\ No newline at end of file
